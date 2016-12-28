@@ -14,13 +14,13 @@ cases目录中包含了本人所有的小项目，其中所有图片、声音等
     </tr>
     <tr>
         <th>项目 1</th>
-		 <th>TurnTable</th>
+		 <th>turntable</th>
         <th>《抽奖转盘》</th>
         <th>jQuery+jQueryRotate</th>
     </tr>
     <tr>
         <th>项目 2</th>
-		 <th>SanYaLvYou</th>
+		 <th>sanyalvyou</th>
         <th>《三亚旅游》</th>
         <th>swiper.js+animate.css+swiper.animate.js</th>
     </tr>
@@ -29,7 +29,7 @@ cases目录中包含了本人所有的小项目，其中所有图片、声音等
 
 ##项目简介
 >项目1
->TurnTable
+>turntable
 
 ###项目名称：《抽奖转盘》
 ###项目简介：
@@ -86,7 +86,7 @@ cases目录中包含了本人所有的小项目，其中所有图片、声音等
 
 
 >项目2 
->SanYaLvYou
+>sanyalvyou
 
 ###项目名称：《三亚旅游》推广案例
 ###项目简介：
