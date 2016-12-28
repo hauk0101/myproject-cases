@@ -1,0 +1,96 @@
+body,ul,li,a,img,p,h1,h2,h3,h4,input,form,button,div{padding:0;margin:0;border:0;list-style: none;}
+
+body{
+    position: relative;
+	max-width: 750px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+.background-bg{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+.background-bg img{
+    position: absolute;
+    width: 100%;
+}
+.main-container{
+	position: relative;
+    width:100%;
+}
+.header-title img{
+    position: relative;
+    width: 7.5rem;
+}
+.header .balloon img{
+    position: relative;
+    width: 1.27rem;
+    margin-top: -0.5rem;
+    float: right;
+}
+.turntable{
+    position: relative;
+    width: 6rem;
+    height: 6rem;
+    margin: 0 auto;
+    top: 0.62rem;
+}
+.turntable .turntable-circle img{
+    position: absolute;
+    width: 6rem;
+}
+.turntable .turntable-bg img{
+    position: absolute;
+    width: 6rem;
+    margin-top: -0.08rem;
+}
+.turntable .btn-go img{
+    position: absolute;
+    width: 1.55rem;
+    margin-left: 2.2rem;
+    margin-top: 0.1rem;
+}
+.join {
+    position: relative;
+    margin-left: 0.4rem;
+    margin-top: 0.5rem;
+}
+.join .join-title img{
+    position: relative;
+    width: 2.9rem;
+}
+.join .join-text p{
+    position: relative;
+    width: 6.1rem;
+    margin-top: 0.1rem;
+    margin-left: 0.4rem;
+    font-family: "SimHei";
+    font-size: 0.24rem;
+    color:#fff;
+}
+.record{
+    position: relative;
+    margin-left: 0.4rem;
+}
+.record .record-title img{
+    position: relative;
+    width: 2.9rem;
+}
+.record .record-text{
+    width:6.75rem;
+    height: 2.2rem;
+    background-color: #fff;
+    border-radius: 0.1rem;
+    overflow: hidden;
+}
+.record .record-text li{
+    /*top: 0.3rem;*/
+    /*padding-bottom: 0.3rem;*/
+    font-family: "SimHei";
+    font-size: 0.3rem;
+    color: #000;
+    text-align: center;
+    line-height: 0.6rem;
+}
